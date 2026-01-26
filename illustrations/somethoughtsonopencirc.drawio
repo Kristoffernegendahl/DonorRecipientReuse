@@ -1,0 +1,235 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.4">
+  <diagram name="Page-1" id="hYR_U2Gfu-yl7SdsjqsF">
+    <mxGraphModel dx="1892" dy="1661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-9" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-10" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-11" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;standardformat-for-lca-dokumentation_2025&lt;/h1&gt;&lt;p&gt;Standardformat (Excel-basseret - med tre faner)&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="280" x="240" y="-120" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-12" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Generel information" vertex="1">
+          <mxGeometry height="30" width="60" x="260" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-19" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BR18 vejledning" vertex="1">
+          <mxGeometry height="30" width="60" x="360" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-20" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Drift og byggeproces" vertex="1">
+          <mxGeometry height="30" width="60" x="460" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-30" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5nBJtoYAvRaR2QG4PMfl-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-33" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5nBJtoYAvRaR2QG4PMfl-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-36" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5nBJtoYAvRaR2QG4PMfl-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-47" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="5nBJtoYAvRaR2QG4PMfl-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-50" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="5nBJtoYAvRaR2QG4PMfl-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Bygnings-niveau og supplerende oplysninger" vertex="1">
+          <mxGeometry height="40" width="60" x="260" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-53" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5nBJtoYAvRaR2QG4PMfl-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tabel 6 + Beskrivelse og mængder + ækvivalenter&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="345" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-89" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="5nBJtoYAvRaR2QG4PMfl-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Drifts-definitioner+ Beskrivelse og mængder + ækvivalenter&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="105" x="437.5" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&quot;Tab&quot;" vertex="1">
+          <mxGeometry height="30" width="60" x="170" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Indhold" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-25" parent="1" style="swimlane;whiteSpace=wrap;html=1;align=left;" value="&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;562&quot; style=&quot;font-weight: 400; width: 422pt;&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;562&quot; style=&quot;width: 422pt;&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;20&quot; style=&quot;height: 15pt;&quot;&gt;&lt;td height=&quot;20&quot; class=&quot;xl65&quot; width=&quot;562&quot; style=&quot;height: 15pt; width: 422pt;&quot;&gt;&lt;b&gt;Generel information om projektet&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" vertex="1">
+          <mxGeometry height="180" width="250" x="-170" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-28" parent="5nBJtoYAvRaR2QG4PMfl-25" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;562&quot; style=&quot;width: 422pt;&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;562&quot; style=&quot;width: 422pt;&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;20&quot; style=&quot;height: 15pt;&quot;&gt;&lt;td height=&quot;20&quot; class=&quot;xl66&quot; style=&quot;height: 15pt;&quot;&gt;Bygningstypologi (BBR kode)&lt;/td&gt;&lt;/tr&gt;&lt;tr height=&quot;20&quot; style=&quot;height: 15pt;&quot;&gt;&lt;td height=&quot;20&quot; class=&quot;xl66&quot; style=&quot;height: 15pt; border-top: none;&quot;&gt;Projekttype&lt;/td&gt;&lt;/tr&gt;&lt;tr height=&quot;20&quot; style=&quot;height: 15pt;&quot;&gt;&lt;td height=&quot;20&quot; class=&quot;xl66&quot; style=&quot;height: 15pt; border-top: none;&quot;&gt;Antal etager&lt;br&gt;over terræn&lt;/td&gt;&lt;/tr&gt;&lt;tr height=&quot;20&quot; style=&quot;height: 15pt;&quot;&gt;&lt;td height=&quot;20&quot; class=&quot;xl66&quot; style=&quot;height: 15pt; border-top: none;&quot;&gt;Antal etager&lt;br&gt;under terræn&lt;/td&gt;&lt;/tr&gt;&lt;tr height=&quot;20&quot; style=&quot;height: 15pt;&quot;&gt;&lt;td height=&quot;20&quot; class=&quot;xl66&quot; style=&quot;height: 15pt; border-top: none;&quot;&gt;Bygningens&lt;br&gt;adresse&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" vertex="1">
+          <mxGeometry height="140" width="220" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-31" parent="1" style="swimlane;whiteSpace=wrap;html=1;align=left;" value="Nøgletal" vertex="1">
+          <mxGeometry height="150" width="280" x="-160" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-32" parent="5nBJtoYAvRaR2QG4PMfl-31" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Dato for ansøgning om byggetilladelse&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;562&quot; style=&quot;width: 422pt;&quot;&gt;&lt;/table&gt;Dato for ansøgning om ibrugtagningstilladelse&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;562&quot; style=&quot;width: 422pt;&quot;&gt;&lt;/table&gt;Gældende bygningsreglement&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;562&quot; style=&quot;width: 422pt;&quot;&gt;&lt;/table&gt;Gældende grænseværdi for nybyggeri&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;562&quot; style=&quot;width: 422pt;&quot;&gt;&lt;/table&gt;Gældende grænseværdi i lavemissionsklassen&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;562&quot; style=&quot;width: 422pt;&quot;&gt;&lt;/table&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="220" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-34" parent="1" style="swimlane;whiteSpace=wrap;html=1;align=left;" value="Resultater" vertex="1">
+          <mxGeometry height="180" width="280" x="220" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-35" parent="5nBJtoYAvRaR2QG4PMfl-34" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;div&gt;Samlet klimapåvirkning ekskl. evt. tillæg (A1-A3, B4, B6, C3-C4)&lt;/div&gt;&lt;div&gt;Tillæg for særlige forhold jf. §298, stk 3-4&lt;/div&gt;&lt;div&gt;Klimapåvirkning fra byggeprocessen (A4-A5)&lt;/div&gt;&lt;div&gt;Samlet klimapåvirkning for alle moduler ekskl. D (A1-3, A4, A5, B1, B2, B3, B4, B5, B6, C1, C2, C3, C4)&lt;/div&gt;&lt;div&gt;Klimapåvirkning for modul D&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="220" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-37" parent="1" style="swimlane;whiteSpace=wrap;html=1;align=left;" value="Arealer (jf. §297 stk. 3)" vertex="1">
+          <mxGeometry height="350" width="490" x="-160" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-38" parent="5nBJtoYAvRaR2QG4PMfl-37" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;br&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;562&quot; style=&quot;border-collapse:&amp;lt;br/&amp;gt; collapse;width:422pt&quot;&gt; &lt;colgroup&gt;&lt;col width=&quot;562&quot; style=&quot;mso-width-source:userset;mso-width-alt:20553;width:422pt&quot;&gt;&lt;/colgroup&gt; &lt;tbody&gt;&lt;tr height=&quot;23&quot; style=&quot;height:17.25pt&quot;&gt;  &lt;td height=&quot;23&quot; class=&quot;xl66&quot; width=&quot;562&quot; style=&quot;height:17.25pt;width:422pt&quot;&gt;Etageareal&lt;br&gt;  jf. §455&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;23&quot; style=&quot;height:17.25pt&quot;&gt;  &lt;td height=&quot;23&quot; class=&quot;xl66&quot; style=&quot;height:17.25pt;border-top:none&quot;&gt;Kælderareal,&lt;br&gt;  affaldsrum i terræn og sikringsrum (integrerede) (100% medregnes)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;23&quot; style=&quot;mso-height-source:userset;height:17.25pt&quot;&gt;  &lt;td height=&quot;23&quot; class=&quot;xl66&quot; style=&quot;height:17.25pt;border-top:none&quot;&gt;Udestuer,&lt;br&gt;  altanlukninger og lign. (50% medregnes)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;23&quot; style=&quot;height:17.25pt&quot;&gt;  &lt;td height=&quot;23&quot; class=&quot;xl66&quot; style=&quot;height:17.25pt;border-top:none&quot;&gt;Integrerede&lt;br&gt;  garager til enfamiliehuse, rækkehuse og lign. (50% medregnes)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;23&quot; style=&quot;height:17.25pt&quot;&gt;  &lt;td height=&quot;23&quot; class=&quot;xl66&quot; style=&quot;height:17.25pt;border-top:none&quot;&gt;Udvendige&lt;br&gt;  ramper, trapper, brandtrapper, altaner, altangange og lign (25% medregnes)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;23&quot; style=&quot;height:17.25pt&quot;&gt;  &lt;td height=&quot;23&quot; class=&quot;xl66&quot; style=&quot;height:17.25pt;border-top:none&quot;&gt;Integrerede&lt;br&gt;  carporte, udhuse, overdækninger, skure og lign. (25% medregnes)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;23&quot; style=&quot;height:17.25pt&quot;&gt;  &lt;td height=&quot;23&quot; class=&quot;xl66&quot; style=&quot;height:17.25pt;border-top:none&quot;&gt;Walk-on-ceilings&lt;br&gt;  og lign. (25% medregnes)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;23&quot; style=&quot;height:17.25pt&quot;&gt;  &lt;td height=&quot;23&quot; class=&quot;xl65&quot; style=&quot;height:17.25pt;border-top:none&quot;&gt;Samlet areal&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;23&quot; style=&quot;height:17.25pt&quot;&gt;  &lt;td height=&quot;23&quot; class=&quot;xl66&quot; style=&quot;height:17.25pt;border-top:none&quot;&gt;Udeareal&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;23&quot; style=&quot;height:17.25pt&quot;&gt;  &lt;td height=&quot;23&quot; class=&quot;xl66&quot; style=&quot;height:17.25pt;border-top:none&quot;&gt;Opvarmet&lt;br&gt;  etageareal jf. §256, nr. 3&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;23&quot; style=&quot;height:17.25pt&quot;&gt;  &lt;td height=&quot;23&quot; class=&quot;xl66&quot; style=&quot;height:17.25pt;border-top:none&quot;&gt;Areal af&lt;br&gt;  integrerede solceller&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="300" width="480" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-41" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.612;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" target="5nBJtoYAvRaR2QG4PMfl-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-42" parent="1" style="swimlane;whiteSpace=wrap;html=1;align=left;" value="Bygningsdrift, energiforsyning og lydklasse" vertex="1">
+          <mxGeometry height="160" width="260" x="-160" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-43" parent="5nBJtoYAvRaR2QG4PMfl-42" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Den projekterede energiklasse&lt;/div&gt;&lt;div&gt;Driftforbrug, varme (uden tillæg)&lt;/div&gt;&lt;div&gt;Driftforbrug, el (uden tillæg)&lt;/div&gt;&lt;div&gt;Driftforbrug, varme (med tillæg)&lt;/div&gt;&lt;div&gt;Driftforbrug, el (med tillæg)&lt;/div&gt;&lt;div&gt;Egenproduktion, el&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="480" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-44" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.699;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" target="5nBJtoYAvRaR2QG4PMfl-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-45" parent="1" style="swimlane;whiteSpace=wrap;html=1;align=left;" value="Ejerforhold" vertex="1">
+          <mxGeometry height="90" width="210" x="140" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-46" parent="5nBJtoYAvRaR2QG4PMfl-45" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;BBR kode for ejerforhold&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-48" parent="1" style="swimlane;whiteSpace=wrap;html=1;align=left;" value="Software og LCA konsulent" vertex="1">
+          <mxGeometry height="90" width="210" x="375" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-49" parent="5nBJtoYAvRaR2QG4PMfl-48" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;LCA software&lt;/div&gt;&lt;div&gt;LCA version&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-59" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5nBJtoYAvRaR2QG4PMfl-57" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-80" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="674.6666666666667" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-51" parent="1" style="swimlane;whiteSpace=wrap;html=1;align=left;" value="Tabel 6" vertex="1">
+          <mxGeometry height="100" width="280" x="550" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-52" parent="5nBJtoYAvRaR2QG4PMfl-51" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;div&gt;Bygningsdele, ontologi/klassifikation&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="220" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-57" parent="1" style="swimlane;whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Tabel 6" vertex="1">
+          <mxGeometry height="60" width="380" x="500" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-58" parent="5nBJtoYAvRaR2QG4PMfl-57" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;div&gt;https://identifier.buildingsmart.org/uri/dtu.construct/br18B2T6/1.1.1&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-65" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="5nBJtoYAvRaR2QG4PMfl-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-98" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="5nBJtoYAvRaR2QG4PMfl-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-60" parent="1" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=40;" value="&quot;Input data&quot; - beskrivelse + mængde + levetid + udskiftninger + enhed" vertex="1">
+          <mxGeometry height="210" width="290" x="910" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-61" parent="5nBJtoYAvRaR2QG4PMfl-60" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&quot;Beskrivelse&quot;&lt;div&gt;&lt;div&gt;Genbrugt byggevare [ja/nej]&lt;/div&gt;&lt;div&gt;Bærende element [ja/nej]&lt;/div&gt;&lt;div&gt;Indtastet mængde&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Beregnet mængde&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Levetid (år)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Forskudt start&lt;/div&gt;&lt;div&gt;Antal udskiftninger&lt;/div&gt;&lt;div&gt;Vægt&lt;/div&gt;&lt;div&gt;Enhed&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="280" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-73" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="5nBJtoYAvRaR2QG4PMfl-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="390" />
+              <mxPoint x="900" y="625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-93" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="5nBJtoYAvRaR2QG4PMfl-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-66" parent="1" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=40;" value="Miljødata" vertex="1">
+          <mxGeometry height="150" width="150" x="1290" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-71" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="5nBJtoYAvRaR2QG4PMfl-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="875" />
+              <mxPoint x="880" y="675" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-68" parent="1" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=40;" value="Særlige forhold" vertex="1">
+          <mxGeometry height="90" width="220" x="910" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-69" parent="5nBJtoYAvRaR2QG4PMfl-68" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Omfattet af særlige forhold [Ja/Nej]&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="280" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Link til EPD&lt;/div&gt;&lt;div&gt;EPD nr.&amp;nbsp;&lt;/div&gt;&lt;div&gt;EPD udløbsdato&lt;/div&gt;&lt;div&gt;Standard&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="120" x="1320" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-79" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="5nBJtoYAvRaR2QG4PMfl-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-75" parent="1" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=40;" value="Resultater for hver miljøindikator og fordelt på moduler (EPD output)" vertex="1">
+          <mxGeometry height="90" width="220" x="1230" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-76" parent="5nBJtoYAvRaR2QG4PMfl-75" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;GWP-total&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="280" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-77" parent="1" style="swimlane;whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Generic EPD relevant information" vertex="1">
+          <mxGeometry height="60" width="380" x="1500" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-78" parent="5nBJtoYAvRaR2QG4PMfl-77" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;div&gt;https://identifier.buildingsmart.org/uri/LCA/LCA/3.0/class/GeneralInformation&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-82" parent="1" style="swimlane;whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Generic EPD relevant information" vertex="1">
+          <mxGeometry height="60" width="380" x="1230" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-83" parent="5nBJtoYAvRaR2QG4PMfl-82" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;div&gt;https://identifier.buildingsmart.org/uri/LCA/LCA/3.0&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-84" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5nBJtoYAvRaR2QG4PMfl-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-87" parent="1" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=40;" value="Drift" vertex="1">
+          <mxGeometry height="210" width="290" x="1010" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-88" parent="5nBJtoYAvRaR2QG4PMfl-87" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;div&gt;Kategori&lt;/div&gt;&lt;div&gt;Type&lt;/div&gt;&lt;div&gt;Kategori&lt;/div&gt;&lt;div&gt;Byggevare&lt;/div&gt;&lt;div&gt;Med i BR18&lt;/div&gt;&lt;div&gt;Indtastet mængde&lt;/div&gt;&lt;div&gt;Enhed&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="280" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-95" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5nBJtoYAvRaR2QG4PMfl-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5nBJtoYAvRaR2QG4PMfl-99" edge="1" parent="1" source="5nBJtoYAvRaR2QG4PMfl-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.091;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="5nBJtoYAvRaR2QG4PMfl-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
